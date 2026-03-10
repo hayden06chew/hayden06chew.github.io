@@ -1,6 +1,6 @@
+<!DOCTYPE html>
 # hayden06chew.github.io
 My Personal Website
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
